@@ -1,0 +1,13 @@
+﻿'lab5.3.exe' (Win32): Loaded 'C:\Users\Користувач\source\repos\lab5.3\Debug\lab5.3.exe'. Symbols loaded.
+'lab5.3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'lab5.3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'lab5.3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'lab5.3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'lab5.3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'lab5.3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x177ec has exited with code 0 (0x0).
+'lab5.3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'lab5.3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+The thread 0x166e4 has exited with code 0 (0x0).
+The thread 0x155d0 has exited with code 0 (0x0).
+The program '[96116] lab5.3.exe' has exited with code 0 (0x0).
